@@ -12,17 +12,17 @@
 /* Custom Styles Below */
 
 body {
-	font-family: 'GeneralSans-Regular';
+	font-family: 'Tajawal';
 }
 
 /* Theme Colors */
 
 /* Fonts */
 @font-face {
-	font-family: 'GeneralSans-Variable';
-	src: url('../fonts/GeneralSans-Variable.woff2') format('woff2'),
-		url('../fonts/GeneralSans-Variable.woff') format('woff'),
-		url('../fonts/GeneralSans-Variable.ttf') format('truetype');
+	font-family: 'Tajawal';
+	src: url('../fonts/Tajawal-Black.ttf') format('ttf'),
+		url('../fonts/Tajawal-Black.ttf') format('ttf'),
+		url('../fonts/Tajawal-Black.ttf') format('ttf');
 	font-weight: 200 700;
 	font-display: swap;
 	font-style: normal;
