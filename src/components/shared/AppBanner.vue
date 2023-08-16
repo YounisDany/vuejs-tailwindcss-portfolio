@@ -2,7 +2,7 @@
 import feather from 'feather-icons';
 
 export default {
-	name: 'Home',
+	name: 'الرئيسية',
 	data: () => {
 		return {
 			theme: '',
